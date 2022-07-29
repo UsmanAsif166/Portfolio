@@ -3,9 +3,7 @@ import "./portfolio.css";
 import IMG1 from "../../assests/portfolio1.jpg";
 import IMG2 from "../../assests/portfolio2.jpg";
 import IMG3 from "../../assests/portfolio3.jpg";
-import IMG4 from "../../assests/portfolio4.jpg";
-import IMG5 from "../../assests/portfolio5.png";
-import IMG6 from "../../assests/portfolio6.jpg";
+
 
 const data = [
   {
@@ -16,14 +14,14 @@ const data = [
     demo: "https://github.com/Acidier/TextUtils-React"
   },
   {
-    id: 1,
+    id: 2,
     image: IMG2,
     title: "This is a portfolio item title which is demo",
     github: "https://github.com/Acidier",
     demo: "https://github.com/Acidier/TextUtils-React"
   },
   {
-    id: 1,
+    id: 3,
     image: IMG3,
     title: "This is a portfolio item title which is demo",
     github: "https://github.com/Acidier",
@@ -45,13 +43,13 @@ const Portfolio = () => {
                 <img src={image} alt={title} />
               </div>
               <h3>{title}</h3>
-              <div className="portfolio_item-cta"><a href={github} className="btn" target="_blank">
+              <div className="portfolio_item-cta"><a href={github} className="btn" target="_blank" rel="noreferrer">
                 Github
               </a>
                 <a
                   href={demo}
                   className="btn btn-primary"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                 >
                   Live Demo
                 </a></div>

@@ -9,22 +9,22 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "This is a portfolio item title which is demo",
-    github: "https://github.com/Acidier",
-    demo: "https://github.com/Acidier/TextUtils-React"
+    title: "Portfolio examples for inspiration",
+    github: "https://github.com/UsmanAsif166",
+    demo: "https://usman-asif-portfolio.herokuapp.com/"
   },
   {
     id: 2,
     image: IMG2,
-    title: "This is a portfolio item title which is demo",
-    github: "https://github.com/Acidier",
-    demo: "https://github.com/Acidier/TextUtils-React"
+    title: "Have a passion for news?",
+    github: "https://github.com/UsmanAsif166",
+    demo: "https://github.com/UsmanAsif166/NewsApp"
   },
   {
     id: 3,
     image: IMG3,
     title: "This is a portfolio item title which is demo",
-    github: "https://github.com/Acidier",
+    github: "https://github.com/UsmanAsif166",
     demo: "https://github.com/Acidier/TextUtils-React"
   }
 ]

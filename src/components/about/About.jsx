@@ -28,7 +28,7 @@ const About = () => {
             <article className="about_card">
               <FiUsers className="about_icon" />
               <h5>Clients</h5>
-              <small>2 Clients</small>
+              <small>20 Clients</small>
             </article>
             <article className="about_card">
               <VscFolderLibrary className="about_icon" />
@@ -37,10 +37,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
-            et, quam sequi atque voluptatum possimus dolorum velit corrupti sed
-            recusandae. Itaque in esse similique vero labore cum ipsum commodi
-            expedita.
+            Innovative Front-End Developer with 1 years experience building and maintaining responsive websites in the recruiting industry. Proficient in HTML, CSS, JavaScript, Bootstrap, ReactJS plus modern libraries and frameworks. Passionate about usability, new technologies, bringing ideas to life, and working with dedicated teams to build efficient and robust applications suited to the user's needs. Organized and dependable candidate, successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

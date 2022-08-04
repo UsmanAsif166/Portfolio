@@ -17,20 +17,24 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Requirements Gathering</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Designing Principles (RnD on new ideas before start working)</p>
             </li>
 
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Algorithm and Mock flows</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Low Fidelity (Work on basic idea rather than visual appearance.)</p>
+            </li>
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>High Fidelity (Include all designing elements and graphics plus prototyping.)</p>
             </li>
           </ul>
         </article>
@@ -42,20 +46,36 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Website Design </p>
             </li>
 
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Website Development</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Architecture</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Unit Testing</p>
+            </li>
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>Api Integration</p>
+            </li>
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>Integration third party libraries</p>
+            </li>
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>Deployment</p>
+            </li>
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>Domain and Hosting</p>
             </li>
           </ul>
         </article>
@@ -67,20 +87,32 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Content Creation Ideas</p>
             </li>
 
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Content Planning and Strategy</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Creating a Content Plan</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>The Content Creation Process</p>
+            </li>
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>Analyzing Your Content</p>
+            </li>
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>Content Creation Tools</p>
+            </li>
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>Brainstorm Content Types And Topics</p>
             </li>
           </ul>
         </article>

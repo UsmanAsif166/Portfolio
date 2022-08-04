@@ -3,6 +3,8 @@ import { FiMail } from 'react-icons/fi';
 import { RiMessengerLine, RiWhatsappLine } from 'react-icons/ri';
 import React, { useRef } from 'react';
 import emailjs from 'emailjs-com';
+// import ReactWhatsapp from 'react-whatsapp';
+
 
 const Contact = () => {
   const form = useRef();
@@ -40,6 +42,7 @@ const Contact = () => {
             <h4>Whatsapp</h4>
             <h4>+92 322 841 8127</h4>
             <a href="https://wa.me/923228418127" target='_blank' rel="noreferrer">Send a Message</a>
+    
           </article>
         </div>
         {/* End of Contact */}

@@ -23,9 +23,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "This is a portfolio item title which is demo",
+    title: "Banking Landing Page",
     github: "https://github.com/UsmanAsif166",
-    demo: "https://github.com/Acidier/TextUtils-React"
+    demo: "https://github.com/UsmanAsif166/Bank-Landing-Page"
   }
 ]
 
